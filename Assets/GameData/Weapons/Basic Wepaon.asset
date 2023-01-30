@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 019877603eb4499e921384828e8f822e, type: 3}
+  m_Name: Basic Wepaon
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 67871670938493194, guid: 1d6b27c0cae4d684ab7bb5a09b830501, type: 3}
+  prepopulatePoolCount: 6
+  bulletSpeed: 10
+  maxFireFrequency: 0.2
